@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.3.0 (upcoming)
+## 0.2.1 (upcoming)
 
-* Pending changelog
+* Refactored name Context to Execution
 
 ## 0.2.0 (December 18, 2017)
 
